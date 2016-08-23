@@ -23,7 +23,7 @@ indent with four spaces:
     }
 
 code fencing:  
-```
+```javascript
 if (isAwesome){
   return true
 }
